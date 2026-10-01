@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.28.0",
+  "version": "3.28.1",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.28.0/RotiSoft_Setup_v3.28.0.exe",
-  "sha256": "32e2edcd508d1e1dbf22541cf5565f16353d8b95f58ce17b98b7afc158e3a01a",
-  "tamano": 83747801,
-  "notas": "Licencia renovada por internet",
-  "firma": "oaREU5f7maE3j0vycMgjqpXe4ouNBa98dHLHlXAI4torvebPm3Ngo6E+uGu+li0myQlxZ+yldHWPsJiV1UphBw=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.28.1/RotiSoft_Setup_v3.28.1.exe",
+  "sha256": "6d192f943d131cee2d2b4789b390957ec13f2b928cc508ae4c9ec392eda30c5f",
+  "tamano": 83745088,
+  "notas": "Actualizador: conexión de Windows y aviso del antivirus",
+  "firma": "qcdDRWDMQZEmor1l9muQb3HOMvjw4oWaC1UeAawG8RaLS1DEasCumzs+dc+67aAi5jk7tPA7rF+ZrSCjliFKDg=="
 }
