@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.33.3",
+  "version": "1.33.4",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.33.3/ServiPnP_Setup_v1.33.3.exe",
-  "sha256": "29322bce82cbc49f0b5d15d1295411f98c7450574b4cda95ee671a583275b4b9",
-  "tamano": 44255770,
-  "notas": "Ver la factura antes de imprimirla",
-  "firma": "ZPPxUyELmF6Gf0tTccnV0iJRzC6TZYk+PT7PFnx87/BvHGJxORono1xlVmyVrne/3TcGdoA790FVmSb969T3BQ=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.33.4/ServiPnP_Setup_v1.33.4.exe",
+  "sha256": "44662b9f8e5ba8711b4abb39a29fa52c1ca0f1c78b95e94fe021e8a5c3af8756",
+  "tamano": 44263902,
+  "notas": "La actualización baja con la conexión de Windows",
+  "firma": "b77qEkh1/m+R7koIhkQb3FLr0STYPqqpm1mJehWMzZ9PmywEgCPMd0Xzmdy1hbhbwbKyVnAOuW0swydxNNBICQ=="
 }
