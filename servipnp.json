@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.34.0",
+  "version": "1.34.1",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.34.0/ServiPnP_Setup_v1.34.0.exe",
-  "sha256": "d6189ccfdee9c2f91f761acadcc8e2daf483705cac49f99431df21088ce15661",
-  "tamano": 44275345,
-  "notas": "ServiPnP, central de licencias por internet",
-  "firma": "Y3Ol+bM9e+5Y2nyPujMhnqg/gvhdgBR3Id3jtnHsh9mXW7W4ft2Yc3jHe9Dc9IKzCa+vbqMjhvXvkGRt416pDg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.34.1/ServiPnP_Setup_v1.34.1.exe",
+  "sha256": "45ebfc2950712516be5b4e46cb10e73313269765d562220014d06105c627bcec",
+  "tamano": 44278261,
+  "notas": "Publicar licencias con la conexión de Windows",
+  "firma": "4A0fHzcrVkqW543DAF4VcUNEfNWQQ8xHDSjyKjxZU3W4DlTTbxMgSsYVes3T5HeQOfVUKLNJ1A2y7MDLgFgvBw=="
 }
