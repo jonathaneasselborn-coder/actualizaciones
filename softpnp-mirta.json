@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.19.1",
+  "version": "3.19.2",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.19.1/SoftPnP_Setup_v3.19.1.exe",
-  "sha256": "0d13baae87aea27d06da672c0381ca1d86c8505153956c5e6e6f9d30e3accaa9",
-  "tamano": 66183765,
-  "notas": "Barra de progreso al actualizar",
-  "firma": "AGMTpdz5eRRv8SIrU90UZWsnDTyiX4OWDOwn73Y73dSbw/LDiYBobGIXX5H8sof2ox8bl8tr/ByhJ+S6/9L3Aw=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.19.2/SoftPnP_Setup_v3.19.2.exe",
+  "sha256": "a726175fba265da3052243016136c85dc5310352454b172358a6c49aa922972f",
+  "tamano": 66192849,
+  "notas": "La actualización baja con la conexión de Windows",
+  "firma": "Q29HBIAa63H0rIqammQpKzhXCDwYTPW39n2Q78rtf4zSuEMUm8lx7px/zuOI/kJw98E3Br+tCxgqO9UfG36UAQ=="
 }
