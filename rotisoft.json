@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.27.2",
+  "version": "3.28.0",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.27.2/RotiSoft_Setup_v3.27.2.exe",
-  "sha256": "dd567a7015687e7a7bd551854403ff4d2f5c191184026dcb69bf74b7f7a1341c",
-  "tamano": 83727163,
-  "notas": "La actualización baja con la conexión de Windows",
-  "firma": "rj0t38isMRje2NPVRhMETBJrjP6vGYMIyrW1PoDRY1kfzlm17CJCAk7gxigfhlAuayqWLG/RcNN6kzSqhb2/Ag=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.28.0/RotiSoft_Setup_v3.28.0.exe",
+  "sha256": "32e2edcd508d1e1dbf22541cf5565f16353d8b95f58ce17b98b7afc158e3a01a",
+  "tamano": 83747801,
+  "notas": "Licencia renovada por internet",
+  "firma": "oaREU5f7maE3j0vycMgjqpXe4ouNBa98dHLHlXAI4torvebPm3Ngo6E+uGu+li0myQlxZ+yldHWPsJiV1UphBw=="
 }
