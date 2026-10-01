@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.33.1",
+  "version": "1.33.2",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.33.1/ServiPnP_Setup_v1.33.1.exe",
-  "sha256": "7df2dfaf07d5658b686c0a352e7cdfafec54349dd72fa9ba239758e9236d6584",
-  "tamano": 44256417,
-  "notas": "Las facturas salen directo por la impresora elegida",
-  "firma": "jDi22GfS0VV5vAHnV06/4GXvFESxpoadVyNuZfEROr2MCiM77v06pst1vj9oVcYVgFbP3u1DNs2x+QWQwqioBA=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.33.2/ServiPnP_Setup_v1.33.2.exe",
+  "sha256": "cddc74f76ca651d8020552d039132a4522adab7209a37684d3bbb6fa4da52161",
+  "tamano": 44262523,
+  "notas": "Barra de progreso al actualizar",
+  "firma": "jyFYuNfDmWFUzchbMqeWf/CTCfB3L8/rqvUgbTPF+PrQx8/ybMY+wtpDxb8ucqHquGbJVA1Zm3HsKeaIrJAhBA=="
 }
