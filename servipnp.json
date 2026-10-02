@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.34.2",
+  "version": "1.35.0",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.34.2/ServiPnP_Setup_v1.34.2.exe",
-  "sha256": "d9090b0c4901e5b26cad0f1605919132e06b527d28fd3554b704aa0314997145",
-  "tamano": 44279128,
-  "notas": "Aviso del antivirus en la descarga",
-  "firma": "nXpdFXIJTvdrrDSaeU9I0D9Pt5ytHPWwMZHhToeQ3xkcJM8J4grqgK0499fReQb6kPKlsUuaDwlDoi0hnYVkCA=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.35.0/ServiPnP_Setup_v1.35.0.exe",
+  "sha256": "120ebc3fe87fd201f3f112728bcf03b50dcbd3f1984e72e5d3d146b57fba57a2",
+  "tamano": 44288353,
+  "notas": "Anular claves de licencia",
+  "firma": "QovfIMJAKCtwmYm55Kij3kgvaYB3wyqEXMjv+TPAUL3qIlzKfbOLzxEVEJlcQhJGLRO0FiUZo1yc+eqGq8aCCA=="
 }
