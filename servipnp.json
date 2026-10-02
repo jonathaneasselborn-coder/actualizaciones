@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.38.0",
+  "version": "1.38.1",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.38.0/ServiPnP_Setup_v1.38.0.exe",
-  "sha256": "d048e953e7acbb7b360e457f60aed33517358bb8aec9e60b5a5fe68b585fdf6f",
-  "tamano": 44311028,
-  "notas": "Atajos de la venta y avisos del monotributo",
-  "firma": "wekvHo/pGqn6FycFr4qfvlmye5Qge67ilY47DvrfOyw+QkG6ebrvw4b0jZ0tLUnOO1QgOq9njgRr0W9D5nwtDQ=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.38.1/ServiPnP_Setup_v1.38.1.exe",
+  "sha256": "519e9c68251b64347ee1b4e12aa82b83f8d1d01f5318a345237794bdcaa80fba",
+  "tamano": 44313458,
+  "notas": "Proveedor bien asignado",
+  "firma": "VQxyaS4+Hm6TQICD+ELLupUDlAa+xfniQOYEcBdBt2btyVIXSKI7YBjaZf36LVKY99SImdp58zO4Hx0H3xW3BA=="
 }
