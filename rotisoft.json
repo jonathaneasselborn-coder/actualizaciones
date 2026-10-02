@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.32.0",
+  "version": "3.32.1",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.32.0/RotiSoft_Setup_v3.32.0.exe",
-  "sha256": "dd30186841d80162cd503181bfaadc900db881a9ab56f416291d458c87494fe3",
-  "tamano": 83791207,
-  "notas": "Atajos de la venta y avisos del monotributo",
-  "firma": "DNnKmas+eaccWcDFBo1FKdJ1W14nE4nygUXeRW2gqBs2LMtXQK/kdi2ZMnRwO7kbyQM3ReuqUxtplDaAXvPNBg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.32.1/RotiSoft_Setup_v3.32.1.exe",
+  "sha256": "d23c71ad041d23297f7f668b051426820f039c24272400ec59b3bbf47fa4ff13",
+  "tamano": 83785606,
+  "notas": "Proveedor bien asignado",
+  "firma": "1rymHJ1/e+F0KqacLFwR3OUEzoW42KcOIOY+6f17kmnhR1O0LeO2ToszPVkucrh8U4WlNr9OjpKTij9NQaUFBQ=="
 }
