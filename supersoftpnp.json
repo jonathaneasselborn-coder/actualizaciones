@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.23.0",
-  "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.23.0/SuperSoftPnP_Setup_v3.23.0.exe",
-  "sha256": "da58285a26dec3b9f9780fc91afb32dc0f7ac5e7294ba21fddee2e65f2ab6242",
-  "tamano": 80945536,
-  "notas": "Anulación de claves de licencia",
-  "firma": "m9GXFXQb7RUaSUwitm7Ip66B6vBWlgbkIDAO2/uun61CKLGH16/UjpWcOg8ODPUDb9Im1yLi2gynGSm0924vBA=="
+  "version": "3.25.0",
+  "fecha": "2026-10-02",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.25.0/SuperSoftPnP_Setup_v3.25.0.exe",
+  "sha256": "d7b223a9a942c2e86a126a2681e829e7d5dca2ac2b86e11f0fc2c62c6ae3af7c",
+  "tamano": 80966959,
+  "notas": "Licencia en dos partes y filtros de comprobantes",
+  "firma": "X8LZcBqYQgvSnsDQkCiaQd719xd7G1glOJ3UCbeo/phEAR9T4cZF4MstJdzo34oMQVQOcybjm46aAJcpEWIeCw=="
 }
