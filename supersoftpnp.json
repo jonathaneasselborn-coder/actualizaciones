@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.26.0",
+  "version": "3.26.1",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.26.0/SuperSoftPnP_Setup_v3.26.0.exe",
-  "sha256": "1ae3b9df94c6926587cdb495e52d528a9297da5ce6f5df18c57b39b2003acbf3",
-  "tamano": 80989882,
-  "notas": "Atajos de la venta y avisos del monotributo",
-  "firma": "UxdgcDJbALxLI2UclDT86iBb6ObUE/sT2+DWLnRlDzgMmu/aHXP/whHpKEdNXi/dwiyatd68CvLYPsREwFnPCg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.26.1/SuperSoftPnP_Setup_v3.26.1.exe",
+  "sha256": "298244836b9322552f1b5897fb5e30afdccb18a36b0d515a6c1fcc764c9afe70",
+  "tamano": 80990205,
+  "notas": "Proveedor bien asignado y rubro nuevo desde la ficha",
+  "firma": "5O12vxyLtZRY0zJDIYOHY9g2yNBvQ8BJDa0v77wrjz3zzfzz/wH1EQkQzBlSr/hu7U8jXaPqVfJguplKQLtnDg=="
 }
