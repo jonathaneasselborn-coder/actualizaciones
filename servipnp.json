@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.37.2",
+  "version": "1.38.0",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.37.2/ServiPnP_Setup_v1.37.2.exe",
-  "sha256": "ad0b88fb24931dc7392d4ffd4e8037c96f0945a409a1091c9a9e7f5fa2d5d7bc",
-  "tamano": 44299714,
-  "notas": "Anular sin dejar al cliente sin licencia",
-  "firma": "3DhvJPj4riy5iTMCAzA/8lZbDPilP1pxWGtcQ8K8zMROqWBJrriN6Vupp3YleJySqAI1VFFjNtbFb/oVzzRIBg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.38.0/ServiPnP_Setup_v1.38.0.exe",
+  "sha256": "d048e953e7acbb7b360e457f60aed33517358bb8aec9e60b5a5fe68b585fdf6f",
+  "tamano": 44311028,
+  "notas": "Atajos de la venta y avisos del monotributo",
+  "firma": "wekvHo/pGqn6FycFr4qfvlmye5Qge67ilY47DvrfOyw+QkG6ebrvw4b0jZ0tLUnOO1QgOq9njgRr0W9D5nwtDQ=="
 }
