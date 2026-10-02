@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.20.0",
+  "version": "3.21.0",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.20.0/SoftPnP_Setup_v3.20.0.exe",
-  "sha256": "60d6af60b16bee2ddb54fe894d5d2c878dd525c15d183f3a4cdb3e4b9e3a65c2",
-  "tamano": 66192941,
-  "notas": "Filtros de comprobantes y actualizador al día",
-  "firma": "5/WA83i28sg+UlXnuRlFzWHIMRY6O+YP0twxkaKV3y2tgzf2dtf93n51lUposTDLsGoQzUEJ348Ji75V/KIgDA=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.21.0/SoftPnP_Setup_v3.21.0.exe",
+  "sha256": "b05fbf598e4648569892bd908b67cd2c51e0072748fc44296423c99985626919",
+  "tamano": 66224423,
+  "notas": "Atajos de la venta y avisos del monotributo",
+  "firma": "ILe8BNPmisEgqjUltDUPcPE+6/IqX6FQ9naHQ20fceuLls1vB+qfEHOUzO36++CsiwQEJlehQhyCZc/bu2+YBA=="
 }
