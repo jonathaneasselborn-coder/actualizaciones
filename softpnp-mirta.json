@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.19.2",
-  "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.19.2/SoftPnP_Setup_v3.19.2.exe",
-  "sha256": "a726175fba265da3052243016136c85dc5310352454b172358a6c49aa922972f",
-  "tamano": 66192849,
-  "notas": "La actualización baja con la conexión de Windows",
-  "firma": "Q29HBIAa63H0rIqammQpKzhXCDwYTPW39n2Q78rtf4zSuEMUm8lx7px/zuOI/kJw98E3Br+tCxgqO9UfG36UAQ=="
+  "version": "3.20.0",
+  "fecha": "2026-10-02",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.20.0/SoftPnP_Setup_v3.20.0.exe",
+  "sha256": "60d6af60b16bee2ddb54fe894d5d2c878dd525c15d183f3a4cdb3e4b9e3a65c2",
+  "tamano": 66192941,
+  "notas": "Filtros de comprobantes y actualizador al día",
+  "firma": "5/WA83i28sg+UlXnuRlFzWHIMRY6O+YP0twxkaKV3y2tgzf2dtf93n51lUposTDLsGoQzUEJ348Ji75V/KIgDA=="
 }
