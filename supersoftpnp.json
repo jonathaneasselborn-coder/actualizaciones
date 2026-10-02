@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.22.1",
+  "version": "3.23.0",
   "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.22.1/SuperSoftPnP_Setup_v3.22.1.exe",
-  "sha256": "0d11a8adc603e2bb324923989e311ad8c54c9808bf479b1b0072328e9cd954eb",
-  "tamano": 80948300,
-  "notas": "Actualizador: conexión de Windows y aviso del antivirus",
-  "firma": "QpjvPpbCcxz3NhFCyVMyMhbw7+4ngSG8E0WCiluNP51vTdn5qnzTwCcCRIkS6wQ/3acIObTwEr6V69mI25mdCg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.23.0/SuperSoftPnP_Setup_v3.23.0.exe",
+  "sha256": "da58285a26dec3b9f9780fc91afb32dc0f7ac5e7294ba21fddee2e65f2ab6242",
+  "tamano": 80945536,
+  "notas": "Anulación de claves de licencia",
+  "firma": "m9GXFXQb7RUaSUwitm7Ip66B6vBWlgbkIDAO2/uun61CKLGH16/UjpWcOg8ODPUDb9Im1yLi2gynGSm0924vBA=="
 }
