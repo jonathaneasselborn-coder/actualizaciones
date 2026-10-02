@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.37.1",
+  "version": "1.37.2",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.37.1/ServiPnP_Setup_v1.37.1.exe",
-  "sha256": "3a920ccf787e4bfc19823ca0b0bf71ad1dcf41963e565cab167d97da7e7b12e9",
-  "tamano": 44297530,
-  "notas": "La licencia se genera en el abono, de un paso",
-  "firma": "T3SOiuFpT/HwJl7f4KFeCsv6Z1VunaxaniLIXotNoeqP8iksiePy4jY8UYMuFy/JwwDvQH8sUMLwaDrMvSTjAA=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.37.2/ServiPnP_Setup_v1.37.2.exe",
+  "sha256": "ad0b88fb24931dc7392d4ffd4e8037c96f0945a409a1091c9a9e7f5fa2d5d7bc",
+  "tamano": 44299714,
+  "notas": "Anular sin dejar al cliente sin licencia",
+  "firma": "3DhvJPj4riy5iTMCAzA/8lZbDPilP1pxWGtcQ8K8zMROqWBJrriN6Vupp3YleJySqAI1VFFjNtbFb/oVzzRIBg=="
 }
