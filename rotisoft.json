@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.29.0",
-  "fecha": "2026-10-01",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.29.0/RotiSoft_Setup_v3.29.0.exe",
-  "sha256": "5813743287cda8d8798f001cf3c148a7f1134cc1cefed7139ee9d0bd04773c01",
-  "tamano": 83755857,
-  "notas": "Anulación de claves de licencia",
-  "firma": "T7pewMO26fn7r55fyk8+O5RGFT9kG3JnPEx+lxzT8o5/dIsGZzIXlub6kJI0pbgCk+QMMBH5PfDgTvy9t7VSAw=="
+  "version": "3.31.0",
+  "fecha": "2026-10-02",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.31.0/RotiSoft_Setup_v3.31.0.exe",
+  "sha256": "efb5c77915f20bf47c2f9fb1d8e2eb748ccdcc0816fbd07d5f5d0f798b62510c",
+  "tamano": 83768063,
+  "notas": "Licencia en dos partes y filtros de comprobantes",
+  "firma": "4C+Y++MedmZrV8t8w/TGIHD2Nt0n5Eb+0GjjTx5FPrUKPNVExeDi186OHJKczNLc4p+ar7V1Klzu5dNz1XXcCA=="
 }
