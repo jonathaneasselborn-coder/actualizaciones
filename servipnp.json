@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.39.0",
-  "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.0/ServiPnP_Setup_v1.39.0.exe",
-  "sha256": "1760525adb6e4271319845b69da91b94d8f9180ffb89d4ce620a0f30f1d7e9f8",
-  "tamano": 44332124,
-  "notas": "Ingreso con rubro, precio sugerido y alta rápida; venta ajustada con vuelto",
-  "firma": "W1a/c+vMzlredyH+e77XbYlygi4hI/pcHkbAIA3THUYQIwdqc6LNNxUMK7Hfa2j8VL3c+Jx/g4cr4mgITElhBw=="
+  "version": "1.39.1",
+  "fecha": "2026-10-03",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.1/ServiPnP_Setup_v1.39.1.exe",
+  "sha256": "f2617c8593a9630bd8623004d8e3d15b4774a283a0625de18d2942db7f6b9072",
+  "tamano": 44332226,
+  "notas": "El punto de venta de los certificados de los clientes",
+  "firma": "QQM4q4s8mJHlIMbERKfa7wyfKSG1ywJBxTagSnseuIVI1dncCBJHj2LeaQhD1sYpfQcYTkouoTU73NJCjk6jAg=="
 }
