@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.21.1",
+  "version": "3.22.0",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.21.1/SoftPnP_Setup_v3.21.1.exe",
-  "sha256": "37186a8555d765926eb1fea70a53663dd3e8c6d9d6031b9eca9af4246deaa0b4",
-  "tamano": 66228815,
-  "notas": "Proveedor bien asignado y rubro nuevo desde la ficha",
-  "firma": "9Ev5RhsmKR3igTf/UbG0XrbIY/EAUDb8bT6HiuA/hgc703qYhhYd5eFBlu4tVYbaqUZI6UBXrsWzKDqrq7tEDw=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.0/SoftPnP_Setup_v3.22.0.exe",
+  "sha256": "7e13440c0ff7b9a39b40c9f038eab71529aaeb8dc31f42a4ca8d8b9b0de09a66",
+  "tamano": 66251600,
+  "notas": "Ingreso con rubro, precio sugerido y alta rápida; venta ajustada con vuelto",
+  "firma": "mrjeF5qrpuzQbCUGi3QwUqWmtQO2/ldS11WQjZyGh736Ccha/VOFgJEjJr8FmekkJwEs09vLGTSdY7O6p77QAA=="
 }
