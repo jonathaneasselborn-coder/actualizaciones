@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.38.1",
+  "version": "1.39.0",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.38.1/ServiPnP_Setup_v1.38.1.exe",
-  "sha256": "519e9c68251b64347ee1b4e12aa82b83f8d1d01f5318a345237794bdcaa80fba",
-  "tamano": 44313458,
-  "notas": "Proveedor bien asignado",
-  "firma": "VQxyaS4+Hm6TQICD+ELLupUDlAa+xfniQOYEcBdBt2btyVIXSKI7YBjaZf36LVKY99SImdp58zO4Hx0H3xW3BA=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.0/ServiPnP_Setup_v1.39.0.exe",
+  "sha256": "1760525adb6e4271319845b69da91b94d8f9180ffb89d4ce620a0f30f1d7e9f8",
+  "tamano": 44332124,
+  "notas": "Ingreso con rubro, precio sugerido y alta rápida; venta ajustada con vuelto",
+  "firma": "W1a/c+vMzlredyH+e77XbYlygi4hI/pcHkbAIA3THUYQIwdqc6LNNxUMK7Hfa2j8VL3c+Jx/g4cr4mgITElhBw=="
 }
