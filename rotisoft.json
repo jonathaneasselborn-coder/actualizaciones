@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.32.1",
+  "version": "3.33.0",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.32.1/RotiSoft_Setup_v3.32.1.exe",
-  "sha256": "d23c71ad041d23297f7f668b051426820f039c24272400ec59b3bbf47fa4ff13",
-  "tamano": 83785606,
-  "notas": "Proveedor bien asignado",
-  "firma": "1rymHJ1/e+F0KqacLFwR3OUEzoW42KcOIOY+6f17kmnhR1O0LeO2ToszPVkucrh8U4WlNr9OjpKTij9NQaUFBQ=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.33.0/RotiSoft_Setup_v3.33.0.exe",
+  "sha256": "20b1ca9b0b10ca12f9b15fa76908c5e0eda62d7e2746c0100abdf84e17e5f851",
+  "tamano": 83813728,
+  "notas": "Recepción con rubro, precio sugerido y alta rápida; pedido ajustado con vuelto",
+  "firma": "I3uWY3QS6+t9VpCkvsiD2DuhOXNzFYSnUYAt6UmNzT6TqsJNh39gAQv/DZsfbsHGZ6z5PCuWXRK//2BCkS3MBg=="
 }
