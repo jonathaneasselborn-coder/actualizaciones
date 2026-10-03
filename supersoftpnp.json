@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.26.1",
+  "version": "3.27.0",
   "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.26.1/SuperSoftPnP_Setup_v3.26.1.exe",
-  "sha256": "298244836b9322552f1b5897fb5e30afdccb18a36b0d515a6c1fcc764c9afe70",
-  "tamano": 80990205,
-  "notas": "Proveedor bien asignado y rubro nuevo desde la ficha",
-  "firma": "5O12vxyLtZRY0zJDIYOHY9g2yNBvQ8BJDa0v77wrjz3zzfzz/wH1EQkQzBlSr/hu7U8jXaPqVfJguplKQLtnDg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.0/SuperSoftPnP_Setup_v3.27.0.exe",
+  "sha256": "5708d81672e2c91ae87482d1705186edf5d9b1690ae587271ce259b0a9fa6359",
+  "tamano": 81011632,
+  "notas": "Ingreso con rubro, precio sugerido y alta rápida; venta ajustada con vuelto",
+  "firma": "wU65z1NLKsOtuSrHPc/xLR3eRw/wQKAAgmg5v9dFSklKf97FfskTemRsHJt9Ae9U/yur3bvIXAU6cSxh7XcnAQ=="
 }
