@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.33.0",
-  "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.33.0/RotiSoft_Setup_v3.33.0.exe",
-  "sha256": "20b1ca9b0b10ca12f9b15fa76908c5e0eda62d7e2746c0100abdf84e17e5f851",
-  "tamano": 83813728,
-  "notas": "Recepción con rubro, precio sugerido y alta rápida; pedido ajustado con vuelto",
-  "firma": "I3uWY3QS6+t9VpCkvsiD2DuhOXNzFYSnUYAt6UmNzT6TqsJNh39gAQv/DZsfbsHGZ6z5PCuWXRK//2BCkS3MBg=="
+  "version": "3.33.1",
+  "fecha": "2026-10-03",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.33.1/RotiSoft_Setup_v3.33.1.exe",
+  "sha256": "76f095affa2009a559766511249bc822bb2aafa9b6431518f2d951a178c1fa8a",
+  "tamano": 83808425,
+  "notas": "La rueda del mouse no cambia stock ni precios",
+  "firma": "mtOpcCO8Aj8Fcnt0yw4A9XsVR21YMMQxIPDIb08m4TKqdpXcHtwdcd0S2t8141EFBPZHAby3qNcKR9s5jTQIDw=="
 }
