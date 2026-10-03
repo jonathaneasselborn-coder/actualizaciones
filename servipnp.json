@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.39.1",
+  "version": "1.39.2",
   "fecha": "2026-10-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.1/ServiPnP_Setup_v1.39.1.exe",
-  "sha256": "f2617c8593a9630bd8623004d8e3d15b4774a283a0625de18d2942db7f6b9072",
-  "tamano": 44332226,
-  "notas": "El punto de venta de los certificados de los clientes",
-  "firma": "QQM4q4s8mJHlIMbERKfa7wyfKSG1ywJBxTagSnseuIVI1dncCBJHj2LeaQhD1sYpfQcYTkouoTU73NJCjk6jAg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.2/ServiPnP_Setup_v1.39.2.exe",
+  "sha256": "408e5d08c6fb27114a7fa62ced7e483e359585ca6fcb0383183200ba8d8948d5",
+  "tamano": 44331243,
+  "notas": "La rueda del mouse no cambia stock ni precios",
+  "firma": "0V3LcBHLiEtZP3d0SKde7W+7ocQHBQtjjQ3XjM1MsmLcY4SleQoN3TRS+Dgbxp9DpmKyT6BEtS1eLRhkpv7IBQ=="
 }
