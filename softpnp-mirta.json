@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.22.0",
-  "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.0/SoftPnP_Setup_v3.22.0.exe",
-  "sha256": "7e13440c0ff7b9a39b40c9f038eab71529aaeb8dc31f42a4ca8d8b9b0de09a66",
-  "tamano": 66251600,
-  "notas": "Ingreso con rubro, precio sugerido y alta rápida; venta ajustada con vuelto",
-  "firma": "mrjeF5qrpuzQbCUGi3QwUqWmtQO2/ldS11WQjZyGh736Ccha/VOFgJEjJr8FmekkJwEs09vLGTSdY7O6p77QAA=="
+  "version": "3.22.1",
+  "fecha": "2026-10-03",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.1/SoftPnP_Setup_v3.22.1.exe",
+  "sha256": "b17f55eb7da46e8418e76a776960289b85b371c2782e1b1e556822e1c9120bba",
+  "tamano": 66248072,
+  "notas": "La rueda del mouse no cambia stock ni precios",
+  "firma": "Sr/InWPKyxEZdEuf9ey+TjtJrTHeLE9rqF9a5TsxKvfYSiblIR4XQDu68BJ8X3dqxsI1hAWUssGcQB4NSOdMBg=="
 }
