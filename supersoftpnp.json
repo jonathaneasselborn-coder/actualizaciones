@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.27.0",
-  "fecha": "2026-10-02",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.0/SuperSoftPnP_Setup_v3.27.0.exe",
-  "sha256": "5708d81672e2c91ae87482d1705186edf5d9b1690ae587271ce259b0a9fa6359",
-  "tamano": 81011632,
-  "notas": "Ingreso con rubro, precio sugerido y alta rápida; venta ajustada con vuelto",
-  "firma": "wU65z1NLKsOtuSrHPc/xLR3eRw/wQKAAgmg5v9dFSklKf97FfskTemRsHJt9Ae9U/yur3bvIXAU6cSxh7XcnAQ=="
+  "version": "3.27.1",
+  "fecha": "2026-10-03",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.1/SuperSoftPnP_Setup_v3.27.1.exe",
+  "sha256": "bc4d0dd1f62505ac7861b13d06118168c6e99c9fefb5b2709c0d047bf6dabbea",
+  "tamano": 81005930,
+  "notas": "La rueda del mouse no cambia stock ni precios",
+  "firma": "uRNsU51JbOriSs9RX15zxWY5uDIaDLVP4v4GMOMyXFr/p5h79pbwP4x6NNKErVAdfXgdIBbPdVAuI3C+/AHfCw=="
 }
