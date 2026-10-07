@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.39.2",
-  "fecha": "2026-10-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.2/ServiPnP_Setup_v1.39.2.exe",
-  "sha256": "408e5d08c6fb27114a7fa62ced7e483e359585ca6fcb0383183200ba8d8948d5",
-  "tamano": 44331243,
-  "notas": "La rueda del mouse no cambia stock ni precios",
-  "firma": "0V3LcBHLiEtZP3d0SKde7W+7ocQHBQtjjQ3XjM1MsmLcY4SleQoN3TRS+Dgbxp9DpmKyT6BEtS1eLRhkpv7IBQ=="
+  "version": "1.39.3",
+  "fecha": "2026-10-06",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.3/ServiPnP_Setup_v1.39.3.exe",
+  "sha256": "0c5de658bf6f0c815fd8f221f4e3d6e33ace9979a5ee8676ce70ae9fbfb38ce0",
+  "tamano": 44333861,
+  "notas": "La factura de una venta en PDF, para guardarla o mandarla",
+  "firma": "DXEAgQhL0Lg8h31TL/QAEzbGB5o5IbGNwN4vBAB7Jn3QJShtOJR17jwWSXf6VI4qhtDZmgRxhjpsXYZg9SqsAg=="
 }
