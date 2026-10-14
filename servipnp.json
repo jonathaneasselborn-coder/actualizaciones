@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.39.3",
-  "fecha": "2026-10-06",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.3/ServiPnP_Setup_v1.39.3.exe",
-  "sha256": "0c5de658bf6f0c815fd8f221f4e3d6e33ace9979a5ee8676ce70ae9fbfb38ce0",
-  "tamano": 44333861,
-  "notas": "La factura de una venta en PDF, para guardarla o mandarla",
-  "firma": "DXEAgQhL0Lg8h31TL/QAEzbGB5o5IbGNwN4vBAB7Jn3QJShtOJR17jwWSXf6VI4qhtDZmgRxhjpsXYZg9SqsAg=="
+  "version": "1.39.4",
+  "fecha": "2026-10-14",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.4/ServiPnP_Setup_v1.39.4.exe",
+  "sha256": "37c083dfc31f70b8c2bb9f31cce18e62af15a9165b7912d79a99d2ffd1eb851d",
+  "tamano": 44337405,
+  "notas": "La razón social del vendedor en todas las facturas, tal cual figura en ARCA",
+  "firma": "dp6T3ZkUhFZy2mNszzPwLiTTPJPpOoBzQAU/hR7zjWnF4OesiQv1+pXkiF6qTWWdoV4+/dKhhZxWy6etVbGiBg=="
 }
