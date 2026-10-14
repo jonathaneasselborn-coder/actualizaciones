@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.27.1",
-  "fecha": "2026-10-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.1/SuperSoftPnP_Setup_v3.27.1.exe",
-  "sha256": "bc4d0dd1f62505ac7861b13d06118168c6e99c9fefb5b2709c0d047bf6dabbea",
-  "tamano": 81005930,
-  "notas": "La rueda del mouse no cambia stock ni precios",
-  "firma": "uRNsU51JbOriSs9RX15zxWY5uDIaDLVP4v4GMOMyXFr/p5h79pbwP4x6NNKErVAdfXgdIBbPdVAuI3C+/AHfCw=="
+  "version": "3.27.2",
+  "fecha": "2026-10-14",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.2/SuperSoftPnP_Setup_v3.27.2.exe",
+  "sha256": "65935620434f54daa33a9d593f6c21a4341f25244e183e1418ba070329817b80",
+  "tamano": 81027008,
+  "notas": "Razón social tal cual figura en ARCA",
+  "firma": "iLw4sp/SsVCVfoP2/kwNn6OBKL84Lx4A74ihGs5GUY9tIpWYtBAOA9xHoMmFQk5rjEnGxjDamYJHX1ORsE+8Bw=="
 }
