@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.22.1",
-  "fecha": "2026-10-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.1/SoftPnP_Setup_v3.22.1.exe",
-  "sha256": "b17f55eb7da46e8418e76a776960289b85b371c2782e1b1e556822e1c9120bba",
-  "tamano": 66248072,
-  "notas": "La rueda del mouse no cambia stock ni precios",
-  "firma": "Sr/InWPKyxEZdEuf9ey+TjtJrTHeLE9rqF9a5TsxKvfYSiblIR4XQDu68BJ8X3dqxsI1hAWUssGcQB4NSOdMBg=="
+  "version": "3.22.2",
+  "fecha": "2026-10-14",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.2/SoftPnP_Setup_v3.22.2.exe",
+  "sha256": "9e8f9ad4fbdb12fcdedcceecf47be3b82e496f69e665c6a2f7b87edf3c95121f",
+  "tamano": 66259110,
+  "notas": "Razón social tal cual figura en ARCA",
+  "firma": "H8wN3gyEVKN1JDZLe7t0aIMAAsC+Pf1uWzyylgBMXRSShLbWlYEbnfH7pKoqHse9YNVjcPbmqVXmm95hbx8mAg=="
 }
