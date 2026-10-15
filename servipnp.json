@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.39.5",
+  "version": "1.39.6",
   "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.5/ServiPnP_Setup_v1.39.5.exe",
-  "sha256": "d4546f84a813655f09dae507388cad9a192a7a6613aac444cf972afa08fe434f",
-  "tamano": 44360618,
-  "notas": "Financiación — total a cobrar, contrato con fecha anterior, firmado, eliminar y duplicar; las cuotas en la caja",
-  "firma": "hpkBsvucWOVzejBqAU6fV04QUpPx/3/Ed7/4t6a1FKzANRPd0Odk8NtkOPcnXlG+qXDtYTNUQywhrJu4qlttBw=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.6/ServiPnP_Setup_v1.39.6.exe",
+  "sha256": "d902185c0d2dc55e85aa27d1a2e734ea1b124f3f29100f8397fe32b50cc1e866",
+  "tamano": 44358148,
+  "notas": "Financiación — las ventanas que se abren sobre el contrato quedan arriba",
+  "firma": "KVrrqE52hnToj0xuaTlCQdFH274Rq+g1uPhDLBBBeWvk2+djP1dO7VWgCVCbkxt3RcWl8agSxmBH/KC7//OZDA=="
 }
