@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.27.3",
+  "version": "3.28.0",
   "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.3/SuperSoftPnP_Setup_v3.27.3.exe",
-  "sha256": "1ffd69f1682fb4d66f0b29ef4ebb26e8a4cb4f66af9a530945493fb2f1ccd030",
-  "tamano": 81013263,
-  "notas": "El cursor del ítem libre",
-  "firma": "9OgGVEAfbcpNXLcKEE84stuwj1kznaL8k144kbPTZZuuxjezPIU5/vk5jP/C8SryWL6BgMDeC4nGtZrpMcggDQ=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.28.0/SuperSoftPnP_Setup_v3.28.0.exe",
+  "sha256": "abd7e3c03c2b5d8a86a36fdf56fc6924ae81211267ad0a7fdeae551133d01f86",
+  "tamano": 81051127,
+  "notas": "Avisos de vencimiento y del desarrollador; reporte de la instalación",
+  "firma": "poHcPz8QL3rFpYel+JrX1D4GmPDek/M6YbC8IUVzNMnJy9DZyM1QJsDSrqq0GkQUEzw10yV72S6bRwex6WjMBA=="
 }
