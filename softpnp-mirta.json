@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.22.2",
-  "fecha": "2026-10-14",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.2/SoftPnP_Setup_v3.22.2.exe",
-  "sha256": "9e8f9ad4fbdb12fcdedcceecf47be3b82e496f69e665c6a2f7b87edf3c95121f",
-  "tamano": 66259110,
-  "notas": "Razón social tal cual figura en ARCA",
-  "firma": "H8wN3gyEVKN1JDZLe7t0aIMAAsC+Pf1uWzyylgBMXRSShLbWlYEbnfH7pKoqHse9YNVjcPbmqVXmm95hbx8mAg=="
+  "version": "3.22.3",
+  "fecha": "2026-10-15",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.3/SoftPnP_Setup_v3.22.3.exe",
+  "sha256": "e58b1774bb84cb154795f223aae8595aa29ffb54de3a967e6c927e799351ff8b",
+  "tamano": 66258185,
+  "notas": "El cursor del ítem libre",
+  "firma": "uzHvFVl869pLtTMWVQFtpXcGxfLM1rhY9VOwnGMY0xAYiK/GEcyzO4W1IwBVlQbset0GpFnNuQUPOQE9+fyJCQ=="
 }
