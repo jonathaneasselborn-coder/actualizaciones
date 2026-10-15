@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.33.3",
+  "version": "3.34.0",
   "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.33.3/RotiSoft_Setup_v3.33.3.exe",
-  "sha256": "1dc5de0a4e7a60e685d7699af0f1e5f31148d5c060ca2e37bba0928374160be8",
-  "tamano": 83831754,
-  "notas": "El cursor del ítem libre",
-  "firma": "vQ8+5yJ/ltzrbTBkm5F3gGSUi7v3ujmvV9joiD4SPNvhLeLy/RD3b2YwqdsaS+C0PsyX8V6sX0GY75mxvxgnDg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.34.0/RotiSoft_Setup_v3.34.0.exe",
+  "sha256": "0287908bece4730a523b6b4f7b2b4944808fc43125f2eaa4746af15a9914a251",
+  "tamano": 83842732,
+  "notas": "Avisos de vencimiento y del desarrollador; reporte de la instalación",
+  "firma": "iTBDwZZNEZ1u9hOAIEiXSJE43Bd0DWMpSXJAJRCWk2cTblID/vqKb1FXHFPu0hLCfDFFh+04QQCLLabAlaPBAw=="
 }
