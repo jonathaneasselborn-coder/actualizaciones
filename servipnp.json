@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.39.6",
+  "version": "1.40.0",
   "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.39.6/ServiPnP_Setup_v1.39.6.exe",
-  "sha256": "d902185c0d2dc55e85aa27d1a2e734ea1b124f3f29100f8397fe32b50cc1e866",
-  "tamano": 44358148,
-  "notas": "Financiación — las ventanas que se abren sobre el contrato quedan arriba",
-  "firma": "KVrrqE52hnToj0xuaTlCQdFH274Rq+g1uPhDLBBBeWvk2+djP1dO7VWgCVCbkxt3RcWl8agSxmBH/KC7//OZDA=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.40.0/ServiPnP_Setup_v1.40.0.exe",
+  "sha256": "28d4260c461fc42beff9cf4790c4d446b184ab223849ade33b52b52fd817f90a",
+  "tamano": 44383190,
+  "notas": "Avisos en el sistema del cliente e instalaciones de SuperSoftPnP y RotiSoft",
+  "firma": "wvLBm5j7VGuqNpo1bMQD5ALAWQMpRQ2JS5hkbM4JpnP2CiS3XHau47BkDNSaXYCL5Qc/SJvSzhuIf/OC74WMCA=="
 }
