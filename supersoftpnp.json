@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.27.2",
-  "fecha": "2026-10-14",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.2/SuperSoftPnP_Setup_v3.27.2.exe",
-  "sha256": "65935620434f54daa33a9d593f6c21a4341f25244e183e1418ba070329817b80",
-  "tamano": 81027008,
-  "notas": "Razón social tal cual figura en ARCA",
-  "firma": "iLw4sp/SsVCVfoP2/kwNn6OBKL84Lx4A74ihGs5GUY9tIpWYtBAOA9xHoMmFQk5rjEnGxjDamYJHX1ORsE+8Bw=="
+  "version": "3.27.3",
+  "fecha": "2026-10-15",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.27.3/SuperSoftPnP_Setup_v3.27.3.exe",
+  "sha256": "1ffd69f1682fb4d66f0b29ef4ebb26e8a4cb4f66af9a530945493fb2f1ccd030",
+  "tamano": 81013263,
+  "notas": "El cursor del ítem libre",
+  "firma": "9OgGVEAfbcpNXLcKEE84stuwj1kznaL8k144kbPTZZuuxjezPIU5/vk5jP/C8SryWL6BgMDeC4nGtZrpMcggDQ=="
 }
