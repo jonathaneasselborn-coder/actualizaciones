@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.28.0",
-  "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.28.0/SuperSoftPnP_Setup_v3.28.0.exe",
-  "sha256": "abd7e3c03c2b5d8a86a36fdf56fc6924ae81211267ad0a7fdeae551133d01f86",
-  "tamano": 81051127,
-  "notas": "Avisos de vencimiento y del desarrollador; reporte de la instalación",
-  "firma": "poHcPz8QL3rFpYel+JrX1D4GmPDek/M6YbC8IUVzNMnJy9DZyM1QJsDSrqq0GkQUEzw10yV72S6bRwex6WjMBA=="
+  "version": "3.28.1",
+  "fecha": "2026-10-19",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.28.1/SuperSoftPnP_Setup_v3.28.1.exe",
+  "sha256": "ce0da75cae94f483dfbf806fbdfa7e6561ad902022e0b081299ec2fdd8a1bc77",
+  "tamano": 81064566,
+  "notas": "La barra de arriba entra entera; el asistente pide el nombre del negocio",
+  "firma": "4XB/gTn7bw6ZTpvsuZjcTNqI7/1NmOHcusmDOHGp7sVjE4dLPytdnK+PMhoM7Q1jNeuTzg384Gj79zkieHWsCA=="
 }
