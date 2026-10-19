@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.40.0",
-  "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.40.0/ServiPnP_Setup_v1.40.0.exe",
-  "sha256": "28d4260c461fc42beff9cf4790c4d446b184ab223849ade33b52b52fd817f90a",
-  "tamano": 44383190,
-  "notas": "Avisos en el sistema del cliente e instalaciones de SuperSoftPnP y RotiSoft",
-  "firma": "wvLBm5j7VGuqNpo1bMQD5ALAWQMpRQ2JS5hkbM4JpnP2CiS3XHau47BkDNSaXYCL5Qc/SJvSzhuIf/OC74WMCA=="
+  "version": "1.40.1",
+  "fecha": "2026-10-19",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.40.1/ServiPnP_Setup_v1.40.1.exe",
+  "sha256": "a95cdd223b8feeb36806ed41668f1107518c490767e89be6a32be341e493cc69",
+  "tamano": 44386794,
+  "notas": "Instalaciones con un solo mail por equipo (script de Google nuevo)",
+  "firma": "n38MZu///d3qMG8LtEFEBR6JK/PrjddESLrLfrwMdg0KvbHTn9eqrkeTyql0D0RA9OgDYVPN7SeFb97j4cknDg=="
 }
