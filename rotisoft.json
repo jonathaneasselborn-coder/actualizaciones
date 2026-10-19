@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.34.0",
-  "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.34.0/RotiSoft_Setup_v3.34.0.exe",
-  "sha256": "0287908bece4730a523b6b4f7b2b4944808fc43125f2eaa4746af15a9914a251",
-  "tamano": 83842732,
-  "notas": "Avisos de vencimiento y del desarrollador; reporte de la instalación",
-  "firma": "iTBDwZZNEZ1u9hOAIEiXSJE43Bd0DWMpSXJAJRCWk2cTblID/vqKb1FXHFPu0hLCfDFFh+04QQCLLabAlaPBAw=="
+  "version": "3.34.1",
+  "fecha": "2026-10-19",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.34.1/RotiSoft_Setup_v3.34.1.exe",
+  "sha256": "06533337ab343e32874dc52f378ea2509fe259268bb1cb53ad38ce67811b91a0",
+  "tamano": 83856128,
+  "notas": "La barra de arriba entra entera; el asistente pide el nombre del negocio",
+  "firma": "c2ZUIo5dFRDR2nBd8kndOMan1mzMxwc5sd5Z/LWF4UefIQSdpXw0mPBffJZHprVkz8cNcdFKsoDSCScDRx6cBQ=="
 }
