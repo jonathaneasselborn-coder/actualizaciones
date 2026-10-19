@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.41.0",
+  "version": "1.42.0",
   "fecha": "2026-10-19",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.41.0/ServiPnP_Setup_v1.41.0.exe",
-  "sha256": "9fe7e911f79aa11b35d6ec630de8b870360ccacb5813300eb4c5f1fd6f223a80",
-  "tamano": 44398117,
-  "notas": "Aviso de deuda de Financiación por WhatsApp",
-  "firma": "bMtQbtifllzRVRsKzzgmNhTWO8r/lvegSxtSB8VHsMoIERAmto78PvjFmAOP6kxT3fH66yYFjUcNsnQEkzXqCg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.42.0/ServiPnP_Setup_v1.42.0.exe",
+  "sha256": "d8e9d530b97afa3a54f0c1998d6009d0690130b674aff6bcf81b23be1a050973",
+  "tamano": 44404979,
+  "notas": "Financiación — pago parcial de una cuota con la mora pendiente; fechas de los cobros en hora local",
+  "firma": "rBCLS6YBoPvLL6v1cXEPcwKu0dCYmV086hJUbJed+HGLpdqEglBF/xI1OG1IZmOZW05VCHAIE/UBNLnb5CyJAw=="
 }
