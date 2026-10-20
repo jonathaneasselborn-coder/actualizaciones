@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.42.1",
-  "fecha": "2026-10-19",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.42.1/ServiPnP_Setup_v1.42.1.exe",
-  "sha256": "c9758ac7bf44f6b518c4f95a4518fdcda5dd2c241be1b4229b004c17e9a25962",
-  "tamano": 44407434,
-  "notas": "Días de mora en el recibo, ventana del contrato más ordenada y hora del servidor en Copias",
-  "firma": "js4hUr/P1p0bhgRC1JKKk/xNd2wNmYU6vJTVGQfhWBwtHYFxqTcORFELGTFW1ta3MOPCMaB88cDKExxFUbKwBQ=="
+  "version": "1.42.2",
+  "fecha": "2026-10-20",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.42.2/ServiPnP_Setup_v1.42.2.exe",
+  "sha256": "c6f858163faebce96adfd31ff3460a5d909f278006b59d43fa42e338ef6ca428",
+  "tamano": 44409989,
+  "notas": "Hora de los cobros de órdenes corregida; cuotas y abonos en Últimos movimientos",
+  "firma": "UPAsWO2CPWqruCXyaHSHkw38WaRw695cgijJFSwfh70sXxMeUwqnbRhf/WkdqiuWsU3/f7V1oToSsb/eCkfiCQ=="
 }
