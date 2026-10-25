@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.43.0",
-  "fecha": "2026-10-24",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.43.0/ServiPnP_Setup_v1.43.0.exe",
-  "sha256": "64c833a31ba4dc7beee60f0c2d41268155481a91b4cdaf066b855f381dc38ebe",
-  "tamano": 44421618,
-  "notas": "Los abonos también desde Clientes",
-  "firma": "J4fpQmY09h++zWdJdMlR8fteD17AVHHTiTzjUnmjQBeCElxgrFfMs5po5UxdA3QQRTO8o9GiqrDsCIthdRJqBg=="
+  "version": "1.43.1",
+  "fecha": "2026-10-25",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.43.1/ServiPnP_Setup_v1.43.1.exe",
+  "sha256": "4f066e400f12e42866620f9e8e2aa5a0b5b0c2f47e2ccb03c9e678c12bd87952",
+  "tamano": 44421175,
+  "notas": "Filtro \"Con abono\" en Clientes",
+  "firma": "JojwDiEmJvP5fjusXGKctr1kWWFIo/sUFPxb9zISthAE1yrtcVQxQRyw2+GA2J/y3KbtEFrHCz8LPvjKM81TCA=="
 }
