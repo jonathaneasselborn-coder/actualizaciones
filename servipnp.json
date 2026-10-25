@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.42.2",
-  "fecha": "2026-10-20",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.42.2/ServiPnP_Setup_v1.42.2.exe",
-  "sha256": "c6f858163faebce96adfd31ff3460a5d909f278006b59d43fa42e338ef6ca428",
-  "tamano": 44409989,
-  "notas": "Hora de los cobros de órdenes corregida; cuotas y abonos en Últimos movimientos",
-  "firma": "UPAsWO2CPWqruCXyaHSHkw38WaRw695cgijJFSwfh70sXxMeUwqnbRhf/WkdqiuWsU3/f7V1oToSsb/eCkfiCQ=="
+  "version": "1.43.0",
+  "fecha": "2026-10-24",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.43.0/ServiPnP_Setup_v1.43.0.exe",
+  "sha256": "64c833a31ba4dc7beee60f0c2d41268155481a91b4cdaf066b855f381dc38ebe",
+  "tamano": 44421618,
+  "notas": "Los abonos también desde Clientes",
+  "firma": "J4fpQmY09h++zWdJdMlR8fteD17AVHHTiTzjUnmjQBeCElxgrFfMs5po5UxdA3QQRTO8o9GiqrDsCIthdRJqBg=="
 }
