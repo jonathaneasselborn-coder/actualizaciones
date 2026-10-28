@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.43.1",
-  "fecha": "2026-10-25",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.43.1/ServiPnP_Setup_v1.43.1.exe",
-  "sha256": "4f066e400f12e42866620f9e8e2aa5a0b5b0c2f47e2ccb03c9e678c12bd87952",
-  "tamano": 44421175,
-  "notas": "Filtro \"Con abono\" en Clientes",
-  "firma": "JojwDiEmJvP5fjusXGKctr1kWWFIo/sUFPxb9zISthAE1yrtcVQxQRyw2+GA2J/y3KbtEFrHCz8LPvjKM81TCA=="
+  "version": "1.43.3",
+  "fecha": "2026-10-28",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.43.3/ServiPnP_Setup_v1.43.3.exe",
+  "sha256": "0908d1e5d02e892778c843812655839339948d1b15c8fc791d68ca4f05f35ae8",
+  "tamano": 44418030,
+  "notas": "Total de los artículos y descuento en el detalle de las ventas. Arreglo de los tickets que en un puesto no salían",
+  "firma": "JSMWEnlyRMEC71qiYNgaYJixdzw40Q/gPES9CVa6X4x016ts6aTfKmpNRwyB1+lI/u0ipW21wUnHizkvG5wkCg=="
 }
