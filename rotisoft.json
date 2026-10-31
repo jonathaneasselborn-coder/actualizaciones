@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.34.1",
-  "fecha": "2026-10-19",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.34.1/RotiSoft_Setup_v3.34.1.exe",
-  "sha256": "06533337ab343e32874dc52f378ea2509fe259268bb1cb53ad38ce67811b91a0",
-  "tamano": 83856128,
-  "notas": "La barra de arriba entra entera; el asistente pide el nombre del negocio",
-  "firma": "c2ZUIo5dFRDR2nBd8kndOMan1mzMxwc5sd5Z/LWF4UefIQSdpXw0mPBffJZHprVkz8cNcdFKsoDSCScDRx6cBQ=="
+  "version": "3.35.0",
+  "fecha": "2026-10-31",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.35.0/RotiSoft_Setup_v3.35.0.exe",
+  "sha256": "bc093d44776a1e4ffe288f0debab7f6857906771cedfff537ba360f159c6b6ca",
+  "tamano": 83885305,
+  "notas": "Pasar el servidor a puesto y al revés",
+  "firma": "pn3VD8iD7VQWr7RBKnSHLAxUJ+Gj8c6odPFZIszgny2HgYi/sXL6zA9xEg25jOEjTje+4hwiu6idEQAV7PbfAw=="
 }
