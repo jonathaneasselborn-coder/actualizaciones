@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.28.1",
-  "fecha": "2026-10-19",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.28.1/SuperSoftPnP_Setup_v3.28.1.exe",
-  "sha256": "ce0da75cae94f483dfbf806fbdfa7e6561ad902022e0b081299ec2fdd8a1bc77",
-  "tamano": 81064566,
-  "notas": "La barra de arriba entra entera; el asistente pide el nombre del negocio",
-  "firma": "4XB/gTn7bw6ZTpvsuZjcTNqI7/1NmOHcusmDOHGp7sVjE4dLPytdnK+PMhoM7Q1jNeuTzg384Gj79zkieHWsCA=="
+  "version": "3.29.0",
+  "fecha": "2026-10-31",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.29.0/SuperSoftPnP_Setup_v3.29.0.exe",
+  "sha256": "d18127a5f92d6d1f3b812a2d0d7cd9fca014f39caa7a300e8af2c6d2e5fce8b7",
+  "tamano": 81094882,
+  "notas": "Pasar el servidor a puesto y al revés",
+  "firma": "17mx91jG+52U9+9phmp9SXYoi0qE7Aw4dC/kNAFaUjOVKnnQOXb7zuppO2upwLxQc81F407Wytdu4bveLYXeAA=="
 }
