@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.22.3",
-  "fecha": "2026-10-15",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.22.3/SoftPnP_Setup_v3.22.3.exe",
-  "sha256": "e58b1774bb84cb154795f223aae8595aa29ffb54de3a967e6c927e799351ff8b",
-  "tamano": 66258185,
-  "notas": "El cursor del ítem libre",
-  "firma": "uzHvFVl869pLtTMWVQFtpXcGxfLM1rhY9VOwnGMY0xAYiK/GEcyzO4W1IwBVlQbset0GpFnNuQUPOQE9+fyJCQ=="
+  "version": "3.23.0",
+  "fecha": "2026-10-31",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.23.0/SoftPnP_Setup_v3.23.0.exe",
+  "sha256": "0d1451e756c256a3e079ad1b4e082e1e39fa4492bae0cfdb8dafaf2e72caf4be",
+  "tamano": 66289215,
+  "notas": "Pasar el servidor a puesto y al revés",
+  "firma": "mogN+ROB1BIWVzxOg12jAfTSJedfcmLyS/PfnbQJ9JwWU/oIkrMH8m6D3SoIFHzzyrBTGO+YFchjkPrOyrXYCg=="
 }
