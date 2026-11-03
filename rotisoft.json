@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.35.0",
-  "fecha": "2026-10-31",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.35.0/RotiSoft_Setup_v3.35.0.exe",
-  "sha256": "bc093d44776a1e4ffe288f0debab7f6857906771cedfff537ba360f159c6b6ca",
-  "tamano": 83885305,
-  "notas": "Pasar el servidor a puesto y al revés",
-  "firma": "pn3VD8iD7VQWr7RBKnSHLAxUJ+Gj8c6odPFZIszgny2HgYi/sXL6zA9xEg25jOEjTje+4hwiu6idEQAV7PbfAw=="
+  "version": "3.36.0",
+  "fecha": "2026-11-03",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.36.0/RotiSoft_Setup_v3.36.0.exe",
+  "sha256": "794b507c51af52f1bfdf49cbc14638ffeef35bdd61b88be549337478b5675e97",
+  "tamano": 83895707,
+  "notas": "Fecha de nacimiento desde ARCA",
+  "firma": "E5TUEW22/avDKoADXOIgdmP5CT2OT3dMpGy154OTO92ei5wpJjuOse3qJ36wf4jIbIEgCACyrEhj9XT9pz/YBQ=="
 }
