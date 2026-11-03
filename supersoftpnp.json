@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.29.0",
-  "fecha": "2026-10-31",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.29.0/SuperSoftPnP_Setup_v3.29.0.exe",
-  "sha256": "d18127a5f92d6d1f3b812a2d0d7cd9fca014f39caa7a300e8af2c6d2e5fce8b7",
-  "tamano": 81094882,
-  "notas": "Pasar el servidor a puesto y al revés",
-  "firma": "17mx91jG+52U9+9phmp9SXYoi0qE7Aw4dC/kNAFaUjOVKnnQOXb7zuppO2upwLxQc81F407Wytdu4bveLYXeAA=="
+  "version": "3.30.0",
+  "fecha": "2026-11-03",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.30.0/SuperSoftPnP_Setup_v3.30.0.exe",
+  "sha256": "cb9b3e654cf6ea0d598934192b989a6c73962d2687d5b3f6aea2325085ff02b1",
+  "tamano": 81097596,
+  "notas": "Fecha de nacimiento desde ARCA",
+  "firma": "LcVufRG7usoe5RuU423uMGN+LnlMIz1BSQKpQhpd4CkuQW5V0k2jFkTaA00BPUdiGOeP819m7KUsy2ReaOnNBQ=="
 }
