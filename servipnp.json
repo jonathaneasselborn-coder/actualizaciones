@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.45.0",
-  "fecha": "2026-11-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.45.0/ServiPnP_Setup_v1.45.0.exe",
-  "sha256": "d3972b4226f4eaa1e164c056e41890d489d81db9662af225ab4baa442951c0b3",
-  "tamano": 38372372,
-  "notas": "Fecha de nacimiento desde ARCA",
-  "firma": "igsEqmY1+ScecZ25nOwIxojnobWsw0bhA+PfVZ3s77Bt1YXE7QvAG1YJ0Kx5DR1FvtZBp58dzP0hCaS7+K62Dw=="
+  "version": "1.46.0",
+  "fecha": "2026-11-05",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.46.0/ServiPnP_Setup_v1.46.0.exe",
+  "sha256": "ffbc51451c85bec564e1633fd962a193cce429bbb92ad803cb8271de32165689",
+  "tamano": 38379732,
+  "notas": "Carga de artículos con el lector y corrector ortográfico",
+  "firma": "AJycZBKTsM0Tq7MAhB6sc2nahSkr3kFrf/AowHwJ+ir+tmKUEQMFYcIZf4V3lWC+Ia7RWO7wJfvZrAh6/GDMAw=="
 }
