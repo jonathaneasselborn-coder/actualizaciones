@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.30.0",
-  "fecha": "2026-11-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.30.0/SuperSoftPnP_Setup_v3.30.0.exe",
-  "sha256": "cb9b3e654cf6ea0d598934192b989a6c73962d2687d5b3f6aea2325085ff02b1",
-  "tamano": 81097596,
-  "notas": "Fecha de nacimiento desde ARCA",
-  "firma": "LcVufRG7usoe5RuU423uMGN+LnlMIz1BSQKpQhpd4CkuQW5V0k2jFkTaA00BPUdiGOeP819m7KUsy2ReaOnNBQ=="
+  "version": "3.31.0",
+  "fecha": "2026-11-05",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.31.0/SuperSoftPnP_Setup_v3.31.0.exe",
+  "sha256": "cc7e83c5a4057e24900633c10dcee8229b73484b633e7a39d7e62f50ced00e10",
+  "tamano": 81116127,
+  "notas": "Carga de artículos con el lector y corrector ortográfico",
+  "firma": "3torbTTW8ofmEawxP+d0FFHHsD2yewtp9BSIhPiaU891KtA53pFlfpQQwvSu0of5MoHZW8shLMLwOB6EjUMBDQ=="
 }
