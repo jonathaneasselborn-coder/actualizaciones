@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.36.0",
-  "fecha": "2026-11-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.36.0/RotiSoft_Setup_v3.36.0.exe",
-  "sha256": "794b507c51af52f1bfdf49cbc14638ffeef35bdd61b88be549337478b5675e97",
-  "tamano": 83895707,
-  "notas": "Fecha de nacimiento desde ARCA",
-  "firma": "E5TUEW22/avDKoADXOIgdmP5CT2OT3dMpGy154OTO92ei5wpJjuOse3qJ36wf4jIbIEgCACyrEhj9XT9pz/YBQ=="
+  "version": "3.37.0",
+  "fecha": "2026-11-05",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.37.0/RotiSoft_Setup_v3.37.0.exe",
+  "sha256": "c9fb33862a1a19a6d6542ee1c3c8a649ad11f7f2e855518659a4cfc3c426b979",
+  "tamano": 83919661,
+  "notas": "Carga de artículos con el lector y corrector ortográfico",
+  "firma": "p6+HSnXHdcxX/XLdMpd9Af1uNyFgYotx7clskMMdjXnQXOP9+pmN+0z8g2Xr7DpQ2znd/bdZt2htMeX4OSAfCQ=="
 }
