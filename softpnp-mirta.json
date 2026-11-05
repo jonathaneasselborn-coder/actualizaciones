@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.24.0",
-  "fecha": "2026-11-03",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.24.0/SoftPnP_Setup_v3.24.0.exe",
-  "sha256": "30f5a1bc03c74979e522fa64b09dcbf308f44ab40702ea538d30aa6bc66989f5",
-  "tamano": 66299212,
-  "notas": "Fecha de nacimiento desde ARCA",
-  "firma": "MG2jWC4702EeqGSad5vogGO4XyhM3w3b+HzC9YYCIdiW64jRfaZngdk7YmPWPiR14CetMxhFzuBFQ7hud87mCA=="
+  "version": "3.25.0",
+  "fecha": "2026-11-05",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.25.0/SoftPnP_Setup_v3.25.0.exe",
+  "sha256": "11d7d85e2244174615359f85fe93c4113e4108a38848bcfab3d4541a21839a12",
+  "tamano": 66313937,
+  "notas": "Carga de artículos con el lector y corrector ortográfico",
+  "firma": "ki3hUSJPGVPRbaV2eZpcQbop1uR9Iv10P55kOV/rZ5a0RccoW1Oif7w0rX06exdWYgsZpUT+GV8aQPZAhQe3DQ=="
 }
