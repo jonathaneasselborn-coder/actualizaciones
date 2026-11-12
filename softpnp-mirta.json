@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.25.0",
-  "fecha": "2026-11-05",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.25.0/SoftPnP_Setup_v3.25.0.exe",
-  "sha256": "11d7d85e2244174615359f85fe93c4113e4108a38848bcfab3d4541a21839a12",
-  "tamano": 66313937,
-  "notas": "Carga de artículos con el lector y corrector ortográfico",
-  "firma": "ki3hUSJPGVPRbaV2eZpcQbop1uR9Iv10P55kOV/rZ5a0RccoW1Oif7w0rX06exdWYgsZpUT+GV8aQPZAhQe3DQ=="
+  "version": "3.26.0",
+  "fecha": "2026-11-12",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.26.0/SoftPnP_Setup_v3.26.0.exe",
+  "sha256": "a19eb999cf11dcd831766f1d5c85fac157f26ede08b19b613fc535f4f866243d",
+  "tamano": 66391937,
+  "notas": "Recuperar la clave del administrador, avisos que se cierran y pantallas más compactas",
+  "firma": "ytrB5CqC1OWbQA7OVQcETUEFDxJvrbIjwFSDquANmM/YRDKVZt1AagXVKl9ssUSqvuy0PSqYy5ktcrlLvuGpBw=="
 }
