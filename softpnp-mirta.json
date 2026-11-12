@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.26.0",
+  "version": "3.27.0",
   "fecha": "2026-11-12",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.26.0/SoftPnP_Setup_v3.26.0.exe",
-  "sha256": "a19eb999cf11dcd831766f1d5c85fac157f26ede08b19b613fc535f4f866243d",
-  "tamano": 66391937,
-  "notas": "Recuperar la clave del administrador, avisos que se cierran y pantallas más compactas",
-  "firma": "ytrB5CqC1OWbQA7OVQcETUEFDxJvrbIjwFSDquANmM/YRDKVZt1AagXVKl9ssUSqvuy0PSqYy5ktcrlLvuGpBw=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.27.0/SoftPnP_Setup_v3.27.0.exe",
+  "sha256": "229ef2d8b71824f29fab799c21e72de42a5a64c650425eacecd7ccc042b25d5d",
+  "tamano": 66388083,
+  "notas": "Vendedores, etiquetas y listas más compactos",
+  "firma": "7WkbWH9hHTY0ckjiBNjwsQTlrC65cA/uBg03fc2t4WuF8m3RzT9hb/F7Xw6kEDxhBcgcZlrClzBj4NV1H9CfDg=="
 }
