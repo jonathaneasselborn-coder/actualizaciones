@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.47.0",
+  "version": "1.48.0",
   "fecha": "2026-11-12",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.47.0/ServiPnP_Setup_v1.47.0.exe",
-  "sha256": "2bfa4e33e7d6f0b736dd278b458fd6f7109d12a4840b6e45bad73cff00dea1b2",
-  "tamano": 38470842,
-  "notas": "Recargo por día en los abonos, avisos que se cierran y pantallas más compactas",
-  "firma": "Pnl+/E8Fpq1ICbU8tReOLWI/qollYKZwP35mGYifwNAA5yj4iwLzlSePYP+s7TPu5dJif+IfM/l6t1AWkfOFAg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.48.0/ServiPnP_Setup_v1.48.0.exe",
+  "sha256": "289cb3e42b4035cd860f39bd503eaa92432a248cd7ebbcb898c9558c4d4101b5",
+  "tamano": 38474077,
+  "notas": "Inicio, Reportes y ventanas más compactos",
+  "firma": "2o2+tk4Hex+GWWgLIiScyc7i4mYzVbh7LKfmp+6Ygz06s7jI+XtJQNDdKnkfOf0X/xdG7AzOVCSIggXtdWDxAg=="
 }
