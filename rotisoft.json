@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.37.0",
-  "fecha": "2026-11-05",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.37.0/RotiSoft_Setup_v3.37.0.exe",
-  "sha256": "c9fb33862a1a19a6d6542ee1c3c8a649ad11f7f2e855518659a4cfc3c426b979",
-  "tamano": 83919661,
-  "notas": "Carga de artículos con el lector y corrector ortográfico",
-  "firma": "p6+HSnXHdcxX/XLdMpd9Af1uNyFgYotx7clskMMdjXnQXOP9+pmN+0z8g2Xr7DpQ2znd/bdZt2htMeX4OSAfCQ=="
+  "version": "3.38.0",
+  "fecha": "2026-11-12",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.38.0/RotiSoft_Setup_v3.38.0.exe",
+  "sha256": "4553176cc04d4d11b259455e1703c12446d37499b3966364e127848504892cc0",
+  "tamano": 84207914,
+  "notas": "Recetario con recetas de 41 países, porciones y pantallas más compactas",
+  "firma": "f9IgOWGbUIhUWtDyNuwzYh+hbiraZ6Rf6oCBZobD7UDAX9Vez4p0qIX1h4fwpfE7qaHTNTB8ykJHGE8Owvu+Cg=="
 }
