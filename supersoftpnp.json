@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.31.0",
-  "fecha": "2026-11-05",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.31.0/SuperSoftPnP_Setup_v3.31.0.exe",
-  "sha256": "cc7e83c5a4057e24900633c10dcee8229b73484b633e7a39d7e62f50ced00e10",
-  "tamano": 81116127,
-  "notas": "Carga de artículos con el lector y corrector ortográfico",
-  "firma": "3torbTTW8ofmEawxP+d0FFHHsD2yewtp9BSIhPiaU891KtA53pFlfpQQwvSu0of5MoHZW8shLMLwOB6EjUMBDQ=="
+  "version": "3.32.0",
+  "fecha": "2026-11-12",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.32.0/SuperSoftPnP_Setup_v3.32.0.exe",
+  "sha256": "03dc8c4cdd4ba7b32b0421c86565f88b9b9c9a554f44844fdf5bd8c279540bcd",
+  "tamano": 81191487,
+  "notas": "Recuperar la clave del administrador, avisos que se cierran y pantallas más compactas",
+  "firma": "Gyj7k4WW8g4Of1djS6ed6ycdG79bII4jacgA0xhAJ+gkDbAROVMubMfXrcFbwbU0t+O6KLX21kjZ49Me2xa2Cw=="
 }
