@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.46.0",
-  "fecha": "2026-11-05",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.46.0/ServiPnP_Setup_v1.46.0.exe",
-  "sha256": "ffbc51451c85bec564e1633fd962a193cce429bbb92ad803cb8271de32165689",
-  "tamano": 38379732,
-  "notas": "Carga de artículos con el lector y corrector ortográfico",
-  "firma": "AJycZBKTsM0Tq7MAhB6sc2nahSkr3kFrf/AowHwJ+ir+tmKUEQMFYcIZf4V3lWC+Ia7RWO7wJfvZrAh6/GDMAw=="
+  "version": "1.47.0",
+  "fecha": "2026-11-12",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.47.0/ServiPnP_Setup_v1.47.0.exe",
+  "sha256": "2bfa4e33e7d6f0b736dd278b458fd6f7109d12a4840b6e45bad73cff00dea1b2",
+  "tamano": 38470842,
+  "notas": "Recargo por día en los abonos, avisos que se cierran y pantallas más compactas",
+  "firma": "Pnl+/E8Fpq1ICbU8tReOLWI/qollYKZwP35mGYifwNAA5yj4iwLzlSePYP+s7TPu5dJif+IfM/l6t1AWkfOFAg=="
 }
