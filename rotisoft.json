@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.38.0",
+  "version": "3.39.0",
   "fecha": "2026-11-12",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.38.0/RotiSoft_Setup_v3.38.0.exe",
-  "sha256": "4553176cc04d4d11b259455e1703c12446d37499b3966364e127848504892cc0",
-  "tamano": 84207914,
-  "notas": "Recetario con recetas de 41 países, porciones y pantallas más compactas",
-  "firma": "f9IgOWGbUIhUWtDyNuwzYh+hbiraZ6Rf6oCBZobD7UDAX9Vez4p0qIX1h4fwpfE7qaHTNTB8ykJHGE8Owvu+Cg=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.39.0/RotiSoft_Setup_v3.39.0.exe",
+  "sha256": "1287e7956006e926714c94f00ff243e1d685d548dae6f9883bcccedd66c812b3",
+  "tamano": 84207145,
+  "notas": "Vendedores, etiquetas y listas más compactos",
+  "firma": "oyDwowUnfmJEAo9PpRoh96/BI3n3LSmPHxnwav9BDs0k9+dVtlmomQ6QsM7hheWeeRp68Fqoa5DMgwk6N7e9CQ=="
 }
