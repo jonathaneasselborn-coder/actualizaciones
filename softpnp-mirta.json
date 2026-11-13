@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.27.0",
-  "fecha": "2026-11-12",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.27.0/SoftPnP_Setup_v3.27.0.exe",
-  "sha256": "229ef2d8b71824f29fab799c21e72de42a5a64c650425eacecd7ccc042b25d5d",
-  "tamano": 66388083,
-  "notas": "Vendedores, etiquetas y listas más compactos",
-  "firma": "7WkbWH9hHTY0ckjiBNjwsQTlrC65cA/uBg03fc2t4WuF8m3RzT9hb/F7Xw6kEDxhBcgcZlrClzBj4NV1H9CfDg=="
+  "version": "3.28.0",
+  "fecha": "2026-11-13",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.28.0/SoftPnP_Setup_v3.28.0.exe",
+  "sha256": "efc2508a571d7425bcf1711f7745e5adde2f4c29509032f949f6d087c21bf12c",
+  "tamano": 66397024,
+  "notas": "Ventana del artículo en renglones, accesos del Inicio y logo del negocio",
+  "firma": "/TJPfawqKqA9VQcKUsjDK/WYUqy8pLkDAqE2J4Z21mCiJDeKLqUDhSPosrANghLgG0e7JksR0dFW8Xm7OFMACQ=="
 }
