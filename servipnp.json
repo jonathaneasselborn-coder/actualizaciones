@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.48.0",
-  "fecha": "2026-11-12",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.48.0/ServiPnP_Setup_v1.48.0.exe",
-  "sha256": "289cb3e42b4035cd860f39bd503eaa92432a248cd7ebbcb898c9558c4d4101b5",
-  "tamano": 38474077,
-  "notas": "Inicio, Reportes y ventanas más compactos",
-  "firma": "2o2+tk4Hex+GWWgLIiScyc7i4mYzVbh7LKfmp+6Ygz06s7jI+XtJQNDdKnkfOf0X/xdG7AzOVCSIggXtdWDxAg=="
+  "version": "1.49.0",
+  "fecha": "2026-11-13",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.49.0/ServiPnP_Setup_v1.49.0.exe",
+  "sha256": "43d0ffc3e19e1e0b97d8c4077720c3e7afd86fb14bc5718592faf481299841e7",
+  "tamano": 38477168,
+  "notas": "Ventana del artículo en renglones, accesos del Inicio y logo del comercio",
+  "firma": "/nDcDjQgdmayG2Eg7K1252ZLGHwZQrC0Z1MwoNmrOwG7yOyrkWuIKbEp+U11SVOyui7bChaDJrDB9fdsjZcfAg=="
 }
