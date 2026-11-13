@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.39.0",
-  "fecha": "2026-11-12",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.39.0/RotiSoft_Setup_v3.39.0.exe",
-  "sha256": "1287e7956006e926714c94f00ff243e1d685d548dae6f9883bcccedd66c812b3",
-  "tamano": 84207145,
-  "notas": "Vendedores, etiquetas y listas más compactos",
-  "firma": "oyDwowUnfmJEAo9PpRoh96/BI3n3LSmPHxnwav9BDs0k9+dVtlmomQ6QsM7hheWeeRp68Fqoa5DMgwk6N7e9CQ=="
+  "version": "3.40.0",
+  "fecha": "2026-11-13",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.40.0/RotiSoft_Setup_v3.40.0.exe",
+  "sha256": "e95c5bc1ac1e9efcc04c114af7001a964e29aa19013d2f5f5af50457ed013e7d",
+  "tamano": 84211183,
+  "notas": "Ventana del artículo en renglones, accesos del Inicio y logo del negocio",
+  "firma": "QeWXWMOo8F4GXp/j0GrG4ltF6q55tM/LmoOei6LAnF1dRSuAm4dGAYBnAR/8o8x4+g/81eja+oF1LUDMbDqyCg=="
 }
