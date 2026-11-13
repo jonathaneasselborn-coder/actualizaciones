@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.33.0",
-  "fecha": "2026-11-12",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.33.0/SuperSoftPnP_Setup_v3.33.0.exe",
-  "sha256": "24fc9e9c2105ef782284602fe1283dd50c6235df7c8451e0aca140b075d74ac9",
-  "tamano": 81186820,
-  "notas": "Vendedores, etiquetas y listas más compactos",
-  "firma": "C5kJnnJJ+O7QdQxDk7ssDVD+aZGIinBbXRXpxS1qtD8nFwNs/UCcmXDDaRlV4sW+asXdwa8YFnuZ9iTVA1SACA=="
+  "version": "3.34.0",
+  "fecha": "2026-11-13",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.34.0/SuperSoftPnP_Setup_v3.34.0.exe",
+  "sha256": "99391d1662ffac9c0a11c0a658a9255cbebb566256c223f87356aed4715007f6",
+  "tamano": 81197488,
+  "notas": "Ventana del artículo en renglones, accesos del Inicio y logo del negocio",
+  "firma": "sINbzJgT8w95LpKCM2HH6b9FKpFyfR92rkklhb9FuG5RmSW1IgKICGF7bfcKthBsrX4Mbvyhp/Wr8H47LHKzBQ=="
 }
