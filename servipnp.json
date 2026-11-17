@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.49.0",
-  "fecha": "2026-11-13",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.49.0/ServiPnP_Setup_v1.49.0.exe",
-  "sha256": "43d0ffc3e19e1e0b97d8c4077720c3e7afd86fb14bc5718592faf481299841e7",
-  "tamano": 38477168,
-  "notas": "Ventana del artículo en renglones, accesos del Inicio y logo del comercio",
-  "firma": "/nDcDjQgdmayG2Eg7K1252ZLGHwZQrC0Z1MwoNmrOwG7yOyrkWuIKbEp+U11SVOyui7bChaDJrDB9fdsjZcfAg=="
+  "version": "1.50.0",
+  "fecha": "2026-11-17",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.50.0/ServiPnP_Setup_v1.50.0.exe",
+  "sha256": "1974eba2ed9487c8cc401764d66f4c5a1fff41c408098d5a9ffb6cc419e96abb",
+  "tamano": 38530481,
+  "notas": "Cobrar y avisar todo lo que debe un cliente junto, y abonos más claros",
+  "firma": "BaT+he/DUrp/z4xUOc6XNRKbKcUvEaFdtJEgf1fNaWocgPPP833ELV+RVJ/ZHcX9QPHm89jd0vFbMNLcAypQDw=="
 }
