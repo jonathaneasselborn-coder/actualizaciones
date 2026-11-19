@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.51.0",
+  "version": "1.52.0",
   "fecha": "2026-11-19",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.51.0/ServiPnP_Setup_v1.51.0.exe",
-  "sha256": "d603c9f6d3fd03f4a987a1daaf8fd60288b6960106fd76a7d52f56689a180bca",
-  "tamano": 38539955,
-  "notas": "Cobrar escribiendo lo que pagó: se reparte solo, muestra lo que queda debiendo y acepta dos formas de pago",
-  "firma": "5RGi4/f2hBIGQTnDu5auyBGFkXGBISNscCZhNfo0Y00WMoOykvarHcg7/Q3FmnLx9TBPLXvsTQUTXhjFDSwICQ=="
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.52.0/ServiPnP_Setup_v1.52.0.exe",
+  "sha256": "0c6ec7d5514780e4c4ea750f98c242e0ee71210076c19b1aec54314724d1859a",
+  "tamano": 38573051,
+  "notas": "Comprobantes de pago en PDF y por WhatsApp, y los pagos en la ficha del cliente",
+  "firma": "OxQb9ijDgT0+LjJ9+4SbgYwlGG8YsheW9hnaPTi1QeaP135UPht9gHGyakU0P5Tta9CcMSgBQaqlJvZY3OmaBg=="
 }
