@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.28.0",
-  "fecha": "2026-11-13",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.28.0/SoftPnP_Setup_v3.28.0.exe",
-  "sha256": "efc2508a571d7425bcf1711f7745e5adde2f4c29509032f949f6d087c21bf12c",
-  "tamano": 66397024,
-  "notas": "Ventana del artículo en renglones, accesos del Inicio y logo del negocio",
-  "firma": "/TJPfawqKqA9VQcKUsjDK/WYUqy8pLkDAqE2J4Z21mCiJDeKLqUDhSPosrANghLgG0e7JksR0dFW8Xm7OFMACQ=="
+  "version": "3.29.0",
+  "fecha": "2026-11-21",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.29.0/SoftPnP_Setup_v3.29.0.exe",
+  "sha256": "799614abf932c5eafc39b904985885428210be54fbc6b782ce67f806268c213a",
+  "tamano": 66396845,
+  "notas": "Proveedor del artículo en un desplegable común",
+  "firma": "BA4K0Q/grANyMo0fwZh1lDu0yHBHia+LJBglBqxMXvfwfGxkvlHnJD6cr3p3Ju6DyRTYlpwpyEXVg0ifhN5pCw=="
 }
