@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.41.0",
-  "fecha": "2026-11-16",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.41.0/RotiSoft_Setup_v3.41.0.exe",
-  "sha256": "ef031944b957ac2df340cea45336358df1bdb188e7390fab0e012a0abc4e27f1",
-  "tamano": 84213094,
-  "notas": "Dividir la cuenta de la mesa por unidades y sin diferencias de centavos",
-  "firma": "mty+sXI8weiFicT6OjYd4IAIIOBrsRYjAs6QJuEkqKfIWiBtV3vqLvJexLWVbgYzxfRTgkQogPRTEMnnIsRsAQ=="
+  "version": "3.42.0",
+  "fecha": "2026-11-21",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.42.0/RotiSoft_Setup_v3.42.0.exe",
+  "sha256": "d6734f73fd7b73b3c1af351b783a46bddac9bcc5aff2aef245e00f29ee4d3d4c",
+  "tamano": 84213650,
+  "notas": "Proveedor del artículo en un desplegable común",
+  "firma": "FfjcuhCeRAa0An/ic6r6d3xtHKvKoobkQwhJUH1mGE41Ijc+U55Hf5Sf6gh3Y56tOElKQwOaga5aEAxvCgN+BA=="
 }
