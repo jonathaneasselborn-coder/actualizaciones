@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.34.0",
-  "fecha": "2026-11-13",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.34.0/SuperSoftPnP_Setup_v3.34.0.exe",
-  "sha256": "99391d1662ffac9c0a11c0a658a9255cbebb566256c223f87356aed4715007f6",
-  "tamano": 81197488,
-  "notas": "Ventana del artículo en renglones, accesos del Inicio y logo del negocio",
-  "firma": "sINbzJgT8w95LpKCM2HH6b9FKpFyfR92rkklhb9FuG5RmSW1IgKICGF7bfcKthBsrX4Mbvyhp/Wr8H47LHKzBQ=="
+  "version": "3.35.0",
+  "fecha": "2026-11-21",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.35.0/SuperSoftPnP_Setup_v3.35.0.exe",
+  "sha256": "c22fc931249a4ed364e685a68dd1a1fd1938ec23817a0eec51113ded71db6e76",
+  "tamano": 81197021,
+  "notas": "Proveedor del artículo en un desplegable común",
+  "firma": "9tluTIqMhC5RsEtQBnjiF72rOS9suf+/eUunSxGB76RptiXUuc4cyGpivR2a20T1dFNV0J4IHKLpArJA8AgWBw=="
 }
