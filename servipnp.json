@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.52.0",
-  "fecha": "2026-11-19",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.52.0/ServiPnP_Setup_v1.52.0.exe",
-  "sha256": "0c6ec7d5514780e4c4ea750f98c242e0ee71210076c19b1aec54314724d1859a",
-  "tamano": 38573051,
-  "notas": "Comprobantes de pago en PDF y por WhatsApp, y los pagos en la ficha del cliente",
-  "firma": "OxQb9ijDgT0+LjJ9+4SbgYwlGG8YsheW9hnaPTi1QeaP135UPht9gHGyakU0P5Tta9CcMSgBQaqlJvZY3OmaBg=="
+  "version": "1.53.0",
+  "fecha": "2026-11-21",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.53.0/ServiPnP_Setup_v1.53.0.exe",
+  "sha256": "822c6819b8b14b09b1fc33c13bc37164451c2f2f2c4d50a0d7c2e81c9dd7c7ad",
+  "tamano": 38571800,
+  "notas": "Factura de la orden con «Listo», categorías secundarias que se agregan solas y proveedor en un desplegable común",
+  "firma": "/bKeoq4W0CcIxPbtNh+VT6KSr0lTOxJ+VV375msMrylSQLByhLAgFeyKEGYjo+4fsxeQwkmwNz8Un2aw1cLPCQ=="
 }
