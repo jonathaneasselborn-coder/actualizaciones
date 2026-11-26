@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.35.0",
-  "fecha": "2026-11-21",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.35.0/SuperSoftPnP_Setup_v3.35.0.exe",
-  "sha256": "c22fc931249a4ed364e685a68dd1a1fd1938ec23817a0eec51113ded71db6e76",
-  "tamano": 81197021,
-  "notas": "Proveedor del artículo en un desplegable común",
-  "firma": "9tluTIqMhC5RsEtQBnjiF72rOS9suf+/eUunSxGB76RptiXUuc4cyGpivR2a20T1dFNV0J4IHKLpArJA8AgWBw=="
+  "version": "3.36.0",
+  "fecha": "2026-11-26",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.36.0/SuperSoftPnP_Setup_v3.36.0.exe",
+  "sha256": "c573d7896207275aea2475fabc00dd1b1fb1b28c0055e459b5c68877831bc575",
+  "tamano": 81217622,
+  "notas": "Varios rubros por artículo y el arreglo al borrar rubros repetidos",
+  "firma": "5OpeRVZK6ObwoIuSTh0Ix/rnlewwMLMqV8SCdfA6GIW5yfr2S9tZXXHidOe3FAJnMjaymKQfjXRWlWIQ1+J3CA=="
 }
