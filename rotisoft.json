@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.42.0",
-  "fecha": "2026-11-21",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.42.0/RotiSoft_Setup_v3.42.0.exe",
-  "sha256": "d6734f73fd7b73b3c1af351b783a46bddac9bcc5aff2aef245e00f29ee4d3d4c",
-  "tamano": 84213650,
-  "notas": "Proveedor del artículo en un desplegable común",
-  "firma": "FfjcuhCeRAa0An/ic6r6d3xtHKvKoobkQwhJUH1mGE41Ijc+U55Hf5Sf6gh3Y56tOElKQwOaga5aEAxvCgN+BA=="
+  "version": "3.43.0",
+  "fecha": "2026-11-26",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.43.0/RotiSoft_Setup_v3.43.0.exe",
+  "sha256": "66d3ffad5ed0564b031d9f61e6c8254a85e8f46d9c014cacd27fa33b82c87a28",
+  "tamano": 84236553,
+  "notas": "Borrar o renombrar un rubro repetido actuaba sobre el otro",
+  "firma": "odFZkoy4PArL4YKfl2Fo7+nvIw2HE2uTZKIxCFBmFTbs/9h06kKFXazCNvSKoMS6QH7X6hPsw+APUcVkzBVJDQ=="
 }
