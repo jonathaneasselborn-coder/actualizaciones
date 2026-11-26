@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.29.0",
-  "fecha": "2026-11-21",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.29.0/SoftPnP_Setup_v3.29.0.exe",
-  "sha256": "799614abf932c5eafc39b904985885428210be54fbc6b782ce67f806268c213a",
-  "tamano": 66396845,
-  "notas": "Proveedor del artículo en un desplegable común",
-  "firma": "BA4K0Q/grANyMo0fwZh1lDu0yHBHia+LJBglBqxMXvfwfGxkvlHnJD6cr3p3Ju6DyRTYlpwpyEXVg0ifhN5pCw=="
+  "version": "3.30.0",
+  "fecha": "2026-11-26",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.30.0/SoftPnP_Setup_v3.30.0.exe",
+  "sha256": "0de847c22e16dc987fdeb936acec4ad4bcf80e0a6e158a44d7d22b6430b2d90d",
+  "tamano": 66415765,
+  "notas": "Varios rubros por artículo y el arreglo al borrar rubros repetidos",
+  "firma": "oo7ZT3n5rmuB+BXw0PuyfM9pnQWAtR/twhWfOhL8rQ65UGwtRCRq0pRUQziJxOBmybSvEa6aZyt58yxnEtTWDg=="
 }
