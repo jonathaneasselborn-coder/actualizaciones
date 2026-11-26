@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.53.0",
-  "fecha": "2026-11-21",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.53.0/ServiPnP_Setup_v1.53.0.exe",
-  "sha256": "822c6819b8b14b09b1fc33c13bc37164451c2f2f2c4d50a0d7c2e81c9dd7c7ad",
-  "tamano": 38571800,
-  "notas": "Factura de la orden con «Listo», categorías secundarias que se agregan solas y proveedor en un desplegable común",
-  "firma": "/bKeoq4W0CcIxPbtNh+VT6KSr0lTOxJ+VV375msMrylSQLByhLAgFeyKEGYjo+4fsxeQwkmwNz8Un2aw1cLPCQ=="
+  "version": "1.54.0",
+  "fecha": "2026-11-26",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.54.0/ServiPnP_Setup_v1.54.0.exe",
+  "sha256": "4c02ac6012a60179db5570b2202c39acd6a416848d34f9d2eaaee9b46ff6a207",
+  "tamano": 38570715,
+  "notas": "El dólar se actualiza solo todos los días con el blue y queda a la vista arriba",
+  "firma": "pLqiwZWhdUIBz/kbGODjKDEJ964oSlp6hL/uNMOzGb6+r17oh586RfSNw74oxytTYJ+63sJhumMumVpQH/okBQ=="
 }
