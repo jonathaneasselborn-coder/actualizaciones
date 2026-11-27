@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.54.0",
-  "fecha": "2026-11-26",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.54.0/ServiPnP_Setup_v1.54.0.exe",
-  "sha256": "4c02ac6012a60179db5570b2202c39acd6a416848d34f9d2eaaee9b46ff6a207",
-  "tamano": 38570715,
-  "notas": "El dólar se actualiza solo todos los días con el blue y queda a la vista arriba",
-  "firma": "pLqiwZWhdUIBz/kbGODjKDEJ964oSlp6hL/uNMOzGb6+r17oh586RfSNw74oxytTYJ+63sJhumMumVpQH/okBQ=="
+  "version": "1.55.0",
+  "fecha": "2026-11-27",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.55.0/ServiPnP_Setup_v1.55.0.exe",
+  "sha256": "6ecd103d003447ea19e722eb12fdc3acf790ee8f8cc7513765de1b1f02c80357",
+  "tamano": 38571320,
+  "notas": "Calculadora de dólares a pesos en la ventana del dólar",
+  "firma": "1A4umKShNq0POu5ZH/7RNKcT3NXiND31j9Rnw6c9xMO3sQkZ9h5s0MuJNcxHdo5bO2oi2+h1ChzHdRsz/QqeDw=="
 }
