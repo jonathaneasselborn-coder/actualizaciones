@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.43.0",
-  "fecha": "2026-11-26",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.43.0/RotiSoft_Setup_v3.43.0.exe",
-  "sha256": "66d3ffad5ed0564b031d9f61e6c8254a85e8f46d9c014cacd27fa33b82c87a28",
-  "tamano": 84236553,
-  "notas": "Borrar o renombrar un rubro repetido actuaba sobre el otro",
-  "firma": "odFZkoy4PArL4YKfl2Fo7+nvIw2HE2uTZKIxCFBmFTbs/9h06kKFXazCNvSKoMS6QH7X6hPsw+APUcVkzBVJDQ=="
+  "version": "3.43.1",
+  "fecha": "2026-11-27",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.43.1/RotiSoft_Setup_v3.43.1.exe",
+  "sha256": "0b6efc90e47045e784434bcb18615773c0217aed5810a79e60ba60d35fecbb85",
+  "tamano": 84232882,
+  "notas": "Con «Mostrar imágenes» encendido se cortaba la pantalla de Artículos",
+  "firma": "9AzDm3axpuAVLyqDZqHCiO2lDoarExKCSyCxogpPtebeQRLaAT8k+VTH24sa8tz2NGMhz/4OXGsOw+k/1JRaAQ=="
 }
