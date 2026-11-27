@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.36.0",
-  "fecha": "2026-11-26",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.36.0/SuperSoftPnP_Setup_v3.36.0.exe",
-  "sha256": "c573d7896207275aea2475fabc00dd1b1fb1b28c0055e459b5c68877831bc575",
-  "tamano": 81217622,
-  "notas": "Varios rubros por artículo y el arreglo al borrar rubros repetidos",
-  "firma": "5OpeRVZK6ObwoIuSTh0Ix/rnlewwMLMqV8SCdfA6GIW5yfr2S9tZXXHidOe3FAJnMjaymKQfjXRWlWIQ1+J3CA=="
+  "version": "3.36.1",
+  "fecha": "2026-11-27",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.36.1/SuperSoftPnP_Setup_v3.36.1.exe",
+  "sha256": "cb499a7434a08a6be78ae1a28b331c8be420322c2010eb65f81187a20ceb5cf8",
+  "tamano": 81221274,
+  "notas": "Con «Mostrar imágenes» encendido no se podía editar artículos",
+  "firma": "HqE3iWi8T+6VN/PHCDVIOoPlkhXK3QcPjisyIHQSHq6kxeAcDHsXm/P1JEVkgl9GIlPsBw4Dv6C6TduptzjCCg=="
 }
