@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.30.0",
-  "fecha": "2026-11-26",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.30.0/SoftPnP_Setup_v3.30.0.exe",
-  "sha256": "0de847c22e16dc987fdeb936acec4ad4bcf80e0a6e158a44d7d22b6430b2d90d",
-  "tamano": 66415765,
-  "notas": "Varios rubros por artículo y el arreglo al borrar rubros repetidos",
-  "firma": "oo7ZT3n5rmuB+BXw0PuyfM9pnQWAtR/twhWfOhL8rQ65UGwtRCRq0pRUQziJxOBmybSvEa6aZyt58yxnEtTWDg=="
+  "version": "3.30.1",
+  "fecha": "2026-11-27",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.30.1/SoftPnP_Setup_v3.30.1.exe",
+  "sha256": "1319efde465cdfa48e0f31c559f2b9c80839b647c8dec2f488ea4064e786bc32",
+  "tamano": 66417273,
+  "notas": "Con «Mostrar imágenes» encendido no se podía editar artículos",
+  "firma": "h7WmLFBnAhkkiowJp5hAMPhhr9RmFURGxWJcQfgeKRQ1fGlxkDfQksUhuM4Loe/pCiCczBYSF9ncoDieKQucCw=="
 }
