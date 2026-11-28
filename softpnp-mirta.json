@@ -1,10 +1,10 @@
 {
   "canal": "softpnp-mirta",
-  "version": "3.30.1",
-  "fecha": "2026-11-27",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.30.1/SoftPnP_Setup_v3.30.1.exe",
-  "sha256": "1319efde465cdfa48e0f31c559f2b9c80839b647c8dec2f488ea4064e786bc32",
-  "tamano": 66417273,
-  "notas": "Con «Mostrar imágenes» encendido no se podía editar artículos",
-  "firma": "h7WmLFBnAhkkiowJp5hAMPhhr9RmFURGxWJcQfgeKRQ1fGlxkDfQksUhuM4Loe/pCiCczBYSF9ncoDieKQucCw=="
+  "version": "3.30.2",
+  "fecha": "2026-11-28",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/softpnp-mirta-v3.30.2/SoftPnP_Setup_v3.30.2.exe",
+  "sha256": "649adb7bda8394c1587779e29061b4000e1f29db7dd39b22e5edb7873583857f",
+  "tamano": 66418637,
+  "notas": "Una imagen elegida y cancelada se subía a otro artículo",
+  "firma": "D8I/6Ow4Ca9I308oX2DhIzRF1HGFxRRF4UUKWUIA+RJMJM/ANr6qVGDrQe7+LdXlrQAyB6zSBZlMeEj/JcuRDw=="
 }
