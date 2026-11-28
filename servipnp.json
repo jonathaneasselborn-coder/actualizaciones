@@ -1,10 +1,10 @@
 {
   "canal": "servipnp",
-  "version": "1.55.0",
-  "fecha": "2026-11-27",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.55.0/ServiPnP_Setup_v1.55.0.exe",
-  "sha256": "6ecd103d003447ea19e722eb12fdc3acf790ee8f8cc7513765de1b1f02c80357",
-  "tamano": 38571320,
-  "notas": "Calculadora de dólares a pesos en la ventana del dólar",
-  "firma": "1A4umKShNq0POu5ZH/7RNKcT3NXiND31j9Rnw6c9xMO3sQkZ9h5s0MuJNcxHdo5bO2oi2+h1ChzHdRsz/QqeDw=="
+  "version": "1.55.1",
+  "fecha": "2026-11-28",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/servipnp-v1.55.1/ServiPnP_Setup_v1.55.1.exe",
+  "sha256": "a65a90154b985d1a888cd670dd17f3bc0df4f043a440a9730e77d7f8b2856784",
+  "tamano": 38569594,
+  "notas": "Artículos: con «Mostrar imágenes» encendido se perdía el proveedor al guardar, y una imagen cancelada pasaba al próximo artículo",
+  "firma": "z5ORFqTLhB8w0HNWfFFz8dKPtbWMJe7yc4+rcvt6VQknD5hbKigtnrw3Mh/JZhDfyydqfStl1pxd0ALcCunXBg=="
 }
