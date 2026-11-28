@@ -1,10 +1,10 @@
 {
   "canal": "supersoftpnp",
-  "version": "3.36.1",
-  "fecha": "2026-11-27",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.36.1/SuperSoftPnP_Setup_v3.36.1.exe",
-  "sha256": "cb499a7434a08a6be78ae1a28b331c8be420322c2010eb65f81187a20ceb5cf8",
-  "tamano": 81221274,
-  "notas": "Con «Mostrar imágenes» encendido no se podía editar artículos",
-  "firma": "HqE3iWi8T+6VN/PHCDVIOoPlkhXK3QcPjisyIHQSHq6kxeAcDHsXm/P1JEVkgl9GIlPsBw4Dv6C6TduptzjCCg=="
+  "version": "3.36.2",
+  "fecha": "2026-11-28",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/supersoftpnp-v3.36.2/SuperSoftPnP_Setup_v3.36.2.exe",
+  "sha256": "9440721f3711c11046bd3a5684fcb2e237b2b39753f7380c904b8a0d8e3e7b5a",
+  "tamano": 81216909,
+  "notas": "Una imagen elegida y cancelada se subía a otro artículo",
+  "firma": "fW0rixF0hczSPTSWVVDs7z58jOPlZ2dV4N4AEfLBvdaQLz2uJQ2KpcbMzU1mFWrDmDXuclfknuzmBkuMAvY2DA=="
 }
