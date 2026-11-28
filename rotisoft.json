@@ -1,10 +1,10 @@
 {
   "canal": "rotisoft",
-  "version": "3.43.1",
-  "fecha": "2026-11-27",
-  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.43.1/RotiSoft_Setup_v3.43.1.exe",
-  "sha256": "0b6efc90e47045e784434bcb18615773c0217aed5810a79e60ba60d35fecbb85",
-  "tamano": 84232882,
-  "notas": "Con «Mostrar imágenes» encendido se cortaba la pantalla de Artículos",
-  "firma": "9AzDm3axpuAVLyqDZqHCiO2lDoarExKCSyCxogpPtebeQRLaAT8k+VTH24sa8tz2NGMhz/4OXGsOw+k/1JRaAQ=="
+  "version": "3.43.2",
+  "fecha": "2026-11-28",
+  "url": "https://github.com/jonathaneasselborn-coder/actualizaciones/releases/download/rotisoft-v3.43.2/RotiSoft_Setup_v3.43.2.exe",
+  "sha256": "774658be9c668f2d8f9f9c9662cdda0aedb4595de31b0a3ba33873b1412db972",
+  "tamano": 84240687,
+  "notas": "Una imagen elegida y cancelada se subía a otro artículo",
+  "firma": "miyOZPsXEe3ypIMTomFB5VfMqQCeNlk73tYRJyUdMjOA8vv5hy3q0v+9l/+uNTPrDwXd2PG5F7XOErUj5b5NAA=="
 }
